@@ -1,4 +1,4 @@
-Librairies data science
+
 Maîtriser les opérations fondamentales du langage Python pour la Data Science
 Mettre en place un environnement Python
 Manipuler les données avec des librairies Python spécialisées
